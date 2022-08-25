@@ -69,7 +69,7 @@ public class LucasNumber {
             if (numbers[i].getResult().length != 0)
                 System.out.println(Arrays.toString(numbers[i].getResult()));
             else
-                System.out.println("There are no such numbers that end in a given digit");
+                System.out.println("There are no such numbers that end in a given digit!");
         }
     }
 }

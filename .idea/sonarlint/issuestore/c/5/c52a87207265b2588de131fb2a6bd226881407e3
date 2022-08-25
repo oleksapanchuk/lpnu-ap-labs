@@ -1,0 +1,12 @@
+
+f	java:S1179"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ³´í
+t
+java:S1488*"^Immediately return this expression instead of assigning it to the temporary variable "result".(®è£°
+6
+java:S1659" Declare "n2" on a separate line.(Ü¦Ãè
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(ÂÈ¾ô
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(ìªÇÄ
+M	java:S106;"9Replace this use of System.out or System.err by a logger.(¤â§k
+M	java:S106B"9Replace this use of System.out or System.err by a logger.(ÝÕüK
+N	java:S106F"9Replace this use of System.out or System.err by a logger.(¾Ò×¥
+N	java:S106H"9Replace this use of System.out or System.err by a logger.(¯¤ª“

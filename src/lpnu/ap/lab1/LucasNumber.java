@@ -16,7 +16,10 @@ public class LucasNumber {
     private long valueNum;
     private int digit;
 
-    /** constructor of class */
+    /** constructor of class
+     * @param num
+     * @param  digit
+     * */
     public LucasNumber(int num, int digit) {
         this.num = num;
         this.digit = digit;

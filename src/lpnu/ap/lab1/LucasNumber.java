@@ -49,13 +49,13 @@ public class LucasNumber {
         int index = 0;
         LucasNumber [] numbers = new LucasNumber[indexLimit];
 
-        System.out.println("Welcome to LucasNumbers programme!!! Input '-1' to finish!");
+        System.out.println("Welcome to LucasNumbers programme!!! (N <= 90) Input '-1' to finish!");
         while (true) {
 
             Scanner scanner = new Scanner(System.in);
             System.out.print("Input 'N': ");
             int N = scanner.nextInt();
-            if (N < 0 || index + 1 == indexLimit) break;
+            if (N < 0 || index + 1 == indexLimit || N > 90) break;
             System.out.print("Input 'digit': ");
             int digit = scanner.nextInt();
 
